@@ -1,0 +1,11 @@
+@mixin new {
+	color:brown;
+	&:hover{
+		opactiy:0.5;
+		color:yellow;
+	}
+}
+@mixin width ($width){
+	width:$width;
+	height:$width * 10;
+}

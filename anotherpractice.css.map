@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,IAAI;EACH,UAAU,EAAC,OAA0B;;AAIrC,WAAI;EACH,KAAK,EAAC,KAAK;EACX,MAAM,EAAC,aAAqB;AAE7B,UAAI;EACH,KAAK,ECVQ,OAAwB;EDWrC,MAAM,EAAC,aAAqB;EAC5B,SAAS,EAAC,IAAI;AAKd,gBAAE;EACD,KAAK,ECnBI,GAAG;ADqBb,iBAAI;EACH,KAAK,EAAC,IAAuB;AAG7B,qBAAE;EEzBJ,KAAK,EAAC,KAAK;EACX,2BAAO;IACN,OAAO,EAAC,GAAG;IACX,KAAK,EAAC,MAAM",
+"sources": ["anotherpractice.scss","_variables.scss","_mixins.scss"],
+"names": [],
+"file": "anotherpractice.css"
+}

@@ -1,0 +1,35 @@
+@import "_reset.scss";
+@import "_variables.scss";
+@import "mixins.scss";
+body{
+	background:complement($matchingcolor);
+}
+
+.hello {
+	> h1{
+		color:green;
+		border:1px solid $firstcolor;
+	}
+	> a {
+		color:$matchingcolor;
+		border:2px solid $firstcolor;
+		font-size:20px;
+	}
+
+	//--------------------------- Above only within .hello class.
+	.entry{
+		h1{
+			color:$firstcolor;
+		}
+		> p {
+			color:complement($firstcolor);
+		}
+		.test{
+			
+			} 
+	} //end of test class
+	} //end of entry
+	} //end of hello class
+	
+
+	
